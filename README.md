@@ -1,9 +1,8 @@
-# python-
 
 ## Python Learning Roadmap 🚀
 Welcome to the Python Learning Roadmap repository! This repository is designed to guide beginners and aspiring Data scientist  through the process of mastering Python, one of the most versatile and popular programming languages today. Whether you're a complete novice or looking to deepen your understanding of Python, this roadmap will help you build a strong foundation and advance toward proficiency.
 
-📘 About This Repository
+# 📘 About This Repository
 In this repository, I outline the roadmap for learning Python and provide a comprehensive list of important topics to cover. The goal is to ensure a clear, structured, and practical approach to learning Python, focusing on both foundational and advanced topics.
 
 📋 Roadmap Overview
