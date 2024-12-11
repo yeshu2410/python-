@@ -5,7 +5,7 @@ Welcome to the Python Learning Roadmap repository! This repository is designed t
 # 📘 About This Repository
 In this repository, I outline the roadmap for learning Python and provide a comprehensive list of important topics to cover. The goal is to ensure a clear, structured, and practical approach to learning Python, focusing on both foundational and advanced topics.
 
-📋 Roadmap Overview
+# 📋 Roadmap Overview
 This roadmap is divided into several key phases:
 
 Getting Started with Python
@@ -48,14 +48,14 @@ Writing clean and efficient Python code
 Version control with Git and GitHub
 Exploring the Python Standard Library
 Staying updated with the Python ecosystem
-🔥 Why Learn Python?
+# 🔥 Why Learn Python?
 Easy to learn and beginner-friendly
 Huge community and abundant resources
 Widely used in data science, web development, automation, and more
 High demand in the job market
-🌟 How to Use This Repository
+# 🌟 How to Use This Repository
 Follow the roadmap step by step and build a strong understanding of each concept.
 Experiment with coding challenges and real-world projects.
 Refer to the resources and examples provided in each section to deepen your learning.
-🤝 Contributing
+# 🤝 Contributing
 Contributions are welcome! If you have suggestions or additional topics to add to the roadmap, feel free to submit a pull request or open an issue.
