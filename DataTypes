@@ -1,0 +1,72 @@
+## Python Data Types: Overview
+Python provides versatile data types for storing and managing collections of data. Here's an overview of four commonly used data types: List, Tuple, Set, and Dictionary.
+
+# 1. List
+A list is an ordered, mutable collection that can store heterogeneous elements.
+
+Characteristics:
+
+Ordered: Maintains the order of elements.
+Mutable: Elements can be modified after creation.
+Allows duplicates.
+Syntax:
+
+python 
+my_list = [1, 2, 3, "Python", 4.5]
+
+Access elements: my_list[0] # Output: 1
+Add elements: my_list.append(6)
+Remove elements: my_list.remove(2)
+# 2. Tuple
+A tuple is an ordered, immutable collection that can also store heterogeneous elements.
+
+Characteristics:
+
+Ordered: Elements have a fixed order.
+Immutable: Cannot be modified after creation.
+Allows duplicates.
+Syntax:
+
+python
+Copy code
+my_tuple = (1, 2, 3, "Python", 4.5)
+Operations:
+
+Access elements: my_tuple[0] # Output: 1
+Count elements: my_tuple.count(2)
+Find index: my_tuple.index("Python")
+# 3. Set
+A set is an unordered collection of unique elements.
+
+Characteristics:
+
+Unordered: Does not maintain the order of elements.
+Mutable: Elements can be added or removed.
+No duplicates allowed.
+Syntax:
+
+python
+Copy code
+my_set = {1, 2, 3, "Python", 4.5}
+Operations:
+
+Add elements: my_set.add(6)
+Remove elements: my_set.remove(2)
+Perform set operations: union, intersection, difference
+# 4. Dictionary
+A dictionary is an unordered collection of key-value pairs.
+
+Characteristics:
+
+Unordered: Keys are unique and map to values.
+Mutable: Keys and values can be added or modified.
+Syntax:
+
+python
+Copy code
+my_dict = {"name": "Python", "version": 3.10, "type": "programming language"}
+Operations:
+
+Access values: my_dict["name"] # Output: Python
+Add/modify: my_dict["year"] = 2024
+Remove: del my_dict["type"]
